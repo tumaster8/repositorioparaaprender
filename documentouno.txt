@@ -1,2 +1,2 @@
-esta es la rama principal de mi proyecto
-es el segundo commit 
+esta es la segunda rama 
+y es el commit 1
